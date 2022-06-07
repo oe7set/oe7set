@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oe7set   Erwin Spitaler
-- 👀 I’m interested in Programming C, C++ (Qt), Python (PySide6) QtQuick
+- 👀 I’m interested in Programming C, C++ (Qt), Python (PySide6) QtQuick, Rust
 - 🌱 I’m currently learning everything that has to do with science and IT
 - 💞️ I’m looking to collaborate together to learn new skills and share existing knowledge
 - 📫 How to reach me eriwn.spitaler@innio.com 
