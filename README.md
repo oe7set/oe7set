@@ -41,7 +41,7 @@ If you like what I do and want to support my projects:
 ## 📬 Get in Touch
 - ✉️ Email: **erwin.spitaler@innio.com**  
 - ✉️ Email: **erwin.spitaler@outlook.com**
-- 
+
 ✨ Thanks for stopping by – feel free to explore my repositories and connect!
 
 <!---
